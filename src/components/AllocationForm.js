@@ -86,6 +86,7 @@ const AllocationForm = (props) => {
             </option>
           </select>
 
+          <span>$</span>
           <input
             required="required"
             type="number"
